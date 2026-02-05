@@ -1,4 +1,4 @@
-### AQIR-ADS
+### VSN-AQIR-ADS
 
 ### Adaptive Quantum Image Representation with Adaptive Depth Suppression
 
