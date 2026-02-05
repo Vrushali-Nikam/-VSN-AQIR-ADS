@@ -2,8 +2,7 @@
 
 ### Adaptive Quantum Image Representation with Adaptive Depth Suppression
 
-This repository contains the complete simulation code, analytically constructed
-quantum circuits, and experimental results for the research work:
+Adaptive Quantum Image Representation with Adaptive Depth Suppression (AQIR-ADS), a frame- work explicitly designed around NISQ-era constraints. Gradient-weighted ro- tational encoding allocates quantum resources preferentially to structurally significant image regions, while unnecessary entanglement and excess circuit depth are suppressed.This repository contains the complete simulation code, analytically constructed quantum circuits, and experimental results for the research work:
 
 ### AQIR-ADS: A Noise-Aware Adaptive Quantum Image Representation with Reduced Circuit Complexity
 
